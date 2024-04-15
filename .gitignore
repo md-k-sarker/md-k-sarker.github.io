@@ -2,7 +2,7 @@
 bin/
 tmp/
 .DS_Store
-Icon?
+Icon
 *.tmp
 *.bak
 *.swp
