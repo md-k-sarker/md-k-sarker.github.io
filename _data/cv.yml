@@ -1,0 +1,182 @@
+cv:
+  name: Md Kamruzzaman Sarker
+  label: Assistant Professor of Computer Science
+  email: msarker@bowiestate.edu
+  location: Bowie, MD
+  image: ""
+  summary: Assistant Professor of Computer Science at Bowie State University. Research spans Explainable AI, Neuro-Symbolic AI, Deep Learning, Knowledge Graphs, Semantic Web, and Cybersecurity.
+
+  social_networks:
+    - network: GitHub
+      username: md-k-sarker
+    - network: LinkedIn
+      username: md-kamruzzaman-sarker
+    - network: Google Scholar
+      username: dnySX2QAAAAJ
+
+  address:
+    street: Computer Science Building, Room 320, 14000 Jericho Park Road
+    city: Bowie
+    region: MD
+    postalCode: "20715-9465"
+    countryCode: US
+
+  sections:
+    Experience:
+      - company: US Department of Energy — Oak Ridge National Laboratory
+        position: Visiting Faculty
+        location: Oak Ridge, TN, USA
+        start_date: 2025-05
+        end_date: 2025-08
+
+      - company: Bowie State University, Department of Computer Science
+        position: Assistant Professor (tenure track)
+        location: Bowie, MD, USA
+        start_date: 2023-08
+        end_date: Present
+
+      - company: University of Hartford, Department of Computing Sciences
+        position: Assistant Professor
+        location: West Hartford, CT, USA
+        start_date: 2021-08
+        end_date: 2023-06
+
+      - company: Kansas State University, Center for Artificial Intelligence and Data Science
+        position: Postdoctoral Fellow
+        location: Manhattan, KS, USA
+        start_date: 2021-01
+        end_date: 2021-07
+
+      - company: Kansas State University, Department of Computer Science
+        position: Graduate Research Assistant
+        location: Manhattan, KS, USA
+        start_date: 2019-08
+        end_date: 2020-12
+
+      - company: Intel Corporation
+        position: Artificial Intelligence Intern
+        location: Hillsboro, OR, USA
+        start_date: 2019-01
+        end_date: 2019-08
+
+      - company: Accenture Technology Labs
+        position: Artificial Intelligence Intern
+        location: Dublin, Ireland
+        start_date: 2017-05
+        end_date: 2017-08
+
+      - company: Wright State University, Department of Computer Science and Engineering
+        position: Graduate Research Assistant
+        location: Dayton, OH, USA
+        start_date: 2016-01
+        end_date: 2019-07
+
+      - company: Samsung Research & Development Institute Bangladesh (SRBD)
+        position: Software Engineer
+        location: Dhaka, Bangladesh
+        start_date: 2013-09
+        end_date: 2015-11
+
+    Education:
+      - institution: Kansas State University
+        location: Manhattan, KS, USA
+        area: Computer Science
+        studyType: PhD
+        start_date: 2016
+        end_date: 2020
+        highlights:
+          - 'Dissertation: "Towards Explainable Artificial Intelligence (XAI) Based on Contextualizing Data with Knowledge Graphs"'
+          - "Supervisor: Pascal Hitzler"
+
+      - institution: Wright State University
+        location: Dayton, OH, USA
+        area: Computer Science
+        studyType: M.S.
+        start_date: 2016
+        end_date: 2019
+        highlights:
+          - Transferred to Kansas State University to complete the PhD
+
+      - institution: Wright State University
+        location: Dayton, OH, USA
+        area: Big and Smart Data
+        studyType: Graduate Certificate
+        start_date: 2016
+        end_date: 2018
+
+      - institution: Khulna University of Engineering & Technology
+        location: Khulna, Bangladesh
+        area: Computer Science and Engineering
+        studyType: B.Sc.
+        start_date: 2009
+        end_date: 2013
+        highlights:
+          - "Dean's Award, senior year"
+
+    Awards:
+      - title: Best Faculty in Collaboration
+        awarder: Bowie State University
+        date: 2024-07
+        summary: Awarded for collaborative research and teaching contributions.
+
+      - title: Exploring Entrepreneurship Scholarship
+        awarder: Kansas State University
+        date: 2020-10
+        summary: "Amount: $1,000."
+
+      - title: Travel Grant — Tutorial Presenter
+        awarder: 33rd AAAI Conference on Artificial Intelligence (AAAI 2019)
+        date: 2019
+        summary: Hawaii, USA.
+
+      - title: Travel Grant — Tutorial Presenter
+        awarder: 2nd U.S. Semantic Technologies Symposium (US2TS 2019)
+        date: 2019
+        summary: North Carolina, USA.
+
+      - title: Travel Grant — Ontology Modeling Presenter
+        awarder: DCVoCamp 2017
+        date: 2017
+        summary: Washington, DC, USA.
+
+      - title: Nominee, Best Demo Award
+        awarder: 15th International Semantic Web Conference (ISWC 2016)
+        date: 2016
+        summary: Kobe, Japan.
+
+      - title: Dean's Award
+        awarder: Khulna University of Engineering & Technology
+        date: 2013
+        summary: Awarded in senior year of undergraduate studies.
+
+    Service:
+      - company: Neurosymbolic Artificial Intelligence (journal)
+        position: Editorial Board Member
+        start_date: 2022
+        end_date: Present
+        highlights:
+          - "Guest editor, Semantic Web Journal special issue: Neuro-Symbolic Artificial Intelligence and the Semantic Web"
+
+      - company: Program committees
+        position: Member / NSF Panel Reviewer
+        start_date: 2020
+        end_date: 2024
+        summary: NSF panel reviewer (2022–2024); program committee for ICLP 2023, IEEE SSCI 2022, SemREC 2022, KGSWC 2021–2022, IJCLR 2021–2022, ISWC 2021, CSSA @ ECML/PKDD 2021 and CIKM 2020, PRAXIS @ ISWC 2020.
+
+      - company: Peer review
+        position: Reviewer
+        start_date: 2017
+        end_date: 2024
+        summary: AAAI (2022–2024), Semantic Web Journal (2019, 2023–2024), MDPI Applied Math (2022–2024), ISWC (2017, 2020), KGSWC 2019, ICCA 2020, SemDeep-6 @ IJCAI-PRICAI 2020, Semantic Explainability Workshop @ IEEE ICSC.
+
+      - company: Open-source research software
+        position: Developer
+        start_date: 2016
+        end_date: Present
+        summary: "ECII: knowledge-graph-based data analysis software, pivotal to $1M in DARPA/AFRL funding (github.com/md-k-sarker/ecii). OWLAx: visual ontology development tool (github.com/md-k-sarker/owlax). ROWLTab: SWRL rule-to-OWL-axiom converter (github.com/md-k-sarker/ROWL). All open source."
+
+      - company: Tutorials
+        position: Organizer / Presenter
+        start_date: 2018
+        end_date: 2019
+        summary: '"On Explainable AI: From Theory to Motivation, Applications and Limitation" at AAAI 2019; "On the Role of Data Semantics for Explainable AI" at US2TS 2019; presenter, "Methods and Tools for Modular Ontology Modeling" at ISWC 2018.'
