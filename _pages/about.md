@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Assistant Professor, Department of Computer Science, Bowie State University
 
@@ -25,8 +25,8 @@ latest_posts:
   enabled: false
 ---
 
-I am an Assistant Professor of Computer Science at [Bowie State University](https://bowiestate.edu/directories/faculty-and-staff-directory/msarker.php). I love to invent new things (research), share knowledge (teaching), and build things (software engineering).
+I'm an Assistant Professor of Computer Science at [Bowie State University](https://bowiestate.edu/directories/faculty-and-staff-directory/msarker.php), where I get to do the three things I love most: invent new ideas (research), share what I know (teaching), and build things that work (software engineering).
 
-My research spans the broad field of Artificial Intelligence, with a focus on Explainable Artificial Intelligence (XAI), Neuro-Symbolic AI, Deep Learning, Knowledge Graphs, the Semantic Web, and Cybersecurity. My work has been cited over 3,200 times (see [Google Scholar](https://scholar.google.com/citations?user=dnySX2QAAAAJ)). Before joining Bowie State, I was an Assistant Professor at the University of Hartford, a Postdoctoral Fellow and PhD student at Kansas State University, and a Visiting Faculty member with the U.S. Department of Energy at Oak Ridge National Laboratory.
+My research sits at the intersection of Explainable AI (XAI), Neuro-Symbolic AI, Deep Learning, Knowledge Graphs, the Semantic Web, and Cybersecurity — work that has been cited over 3,200 times ([Google Scholar](https://scholar.google.com/citations?user=dnySX2QAAAAJ)). Before Bowie State, I was an Assistant Professor at the University of Hartford, a Postdoctoral Fellow and PhD student at Kansas State University, and a Visiting Faculty member with the U.S. Department of Energy at Oak Ridge National Laboratory.
 
-See my [publications](/publications/), [projects](/projects/), [teaching](/teaching/), and [CV](/cv/) for more, or reach out by email — I'm happy to hear from prospective students and collaborators.
+Explore my [publications](/publications/), [projects](/projects/), [teaching](/teaching/), and [CV](/cv/), or reach out by email — I'm always glad to hear from prospective students and collaborators.
