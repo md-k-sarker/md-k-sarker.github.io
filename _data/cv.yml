@@ -114,6 +114,11 @@ cv:
           - "Dean's Award, senior year"
 
     Awards:
+      - title: Outstanding Early Career Faculty
+        awarder: Bowie State University
+        date: 2025-04
+        summary: Recognized for early-career research and teaching contributions.
+
       - title: Best Faculty in Collaboration
         awarder: Bowie State University
         date: 2024-07
@@ -150,33 +155,21 @@ cv:
         summary: Awarded in senior year of undergraduate studies.
 
     Service:
-      - company: Neurosymbolic Artificial Intelligence (journal)
-        position: Editorial Board Member
-        start_date: 2022
-        end_date: Present
-        highlights:
-          - "Guest editor, Semantic Web Journal special issue: Neuro-Symbolic Artificial Intelligence and the Semantic Web"
+      - bullet: "**Editorial Board Member**, *Neurosymbolic Artificial Intelligence* (journal), 2022–present. Guest editor, *Semantic Web Journal* special issue: Neuro-Symbolic Artificial Intelligence and the Semantic Web."
+      - bullet: "**Editorial Board Member**, *Journal of Future Artificial Intelligence and Technologies*, 2023–present."
+      - bullet: "**Program committees / NSF Panel Reviewer**, 2020–2025. NSF panel reviewer (2022–2025); program committee for ICLP 2023, IEEE SSCI 2022, SemREC 2022, KGSWC 2021–2022, IJCLR 2021–2022, ISWC 2021, CSSA @ ECML/PKDD 2021 and CIKM 2020, PRAXIS @ ISWC 2020."
+      - bullet: "**Reviewer**, 2017–2024. AAAI (2022–2024), IJCAI, Semantic Web Journal (2019, 2023–2024), MDPI Applied Math (2022–2024), ISWC (2017, 2020), KGSWC 2019, ICCA 2020, SemDeep-6 @ IJCAI-PRICAI 2020, Semantic Explainability Workshop @ IEEE ICSC."
+      - bullet: "**Open-source research software**, 2016–present. ECII: knowledge-graph-based data analysis software, pivotal to $1M in DARPA/AFRL funding ([github](https://github.com/md-k-sarker/ecii)). OWLAx: visual ontology development tool ([github](https://github.com/md-k-sarker/owlax)). ROWLTab: SWRL rule-to-OWL-axiom converter ([github](https://github.com/md-k-sarker/ROWL))."
+      - bullet: "**Tutorials, Organizer/Presenter**, 2018–2019. \"On Explainable AI: From Theory to Motivation, Applications and Limitation\" at AAAI 2019; \"On the Role of Data Semantics for Explainable AI\" at US2TS 2019; presenter, \"Methods and Tools for Modular Ontology Modeling\" at ISWC 2018."
 
-      - company: Program committees
-        position: Member / NSF Panel Reviewer
-        start_date: 2020
-        end_date: 2024
-        summary: NSF panel reviewer (2022–2024); program committee for ICLP 2023, IEEE SSCI 2022, SemREC 2022, KGSWC 2021–2022, IJCLR 2021–2022, ISWC 2021, CSSA @ ECML/PKDD 2021 and CIKM 2020, PRAXIS @ ISWC 2020.
+    Grants:
+      - bullet: "**Preparing Students for Artificial Intelligence and Emerging Tech Careers through Industry Partnerships and Experiential Learning** — National Science Foundation, ExLENT Program, Award #2526289. $998,567. Aug 2025–Jul 2028. Co-PI (PI: Rosemary Shumba; Co-PI: Hoda El-Sayed). Bowie State University."
+      - bullet: "**Image Classifier with Interactive Web Interface** — University System of Maryland Launch Fund / Occolo. $7,949. Jan–Apr 2026. Bowie State University."
+      - bullet: "**Faculty Research Mentor Grant** — Bowie State University Summer Undergraduate Research Institute (SURI). $5,000/year (2023, 2024, 2025)."
+      - bullet: "**Vincent B. Coffin Grant** — University of Hartford. $3,500. 2021–2022."
+      - bullet: "**Resource Grant — Deep Learning Computing Cluster** — University of Hartford. $40,000. 2022."
 
-      - company: Peer review
-        position: Reviewer
-        start_date: 2017
-        end_date: 2024
-        summary: AAAI (2022–2024), Semantic Web Journal (2019, 2023–2024), MDPI Applied Math (2022–2024), ISWC (2017, 2020), KGSWC 2019, ICCA 2020, SemDeep-6 @ IJCAI-PRICAI 2020, Semantic Explainability Workshop @ IEEE ICSC.
-
-      - company: Open-source research software
-        position: Developer
-        start_date: 2016
-        end_date: Present
-        summary: "ECII: knowledge-graph-based data analysis software, pivotal to $1M in DARPA/AFRL funding (github.com/md-k-sarker/ecii). OWLAx: visual ontology development tool (github.com/md-k-sarker/owlax). ROWLTab: SWRL rule-to-OWL-axiom converter (github.com/md-k-sarker/ROWL). All open source."
-
-      - company: Tutorials
-        position: Organizer / Presenter
-        start_date: 2018
-        end_date: 2019
-        summary: '"On Explainable AI: From Theory to Motivation, Applications and Limitation" at AAAI 2019; "On the Role of Data Semantics for Explainable AI" at US2TS 2019; presenter, "Methods and Tools for Modular Ontology Modeling" at ISWC 2018.'
+    Pending Proposals:
+      - bullet: "**Maryland AI-Ready Coordination Hub (MAICH)** — National Science Foundation. $3,000,000 (pending). 2027–2029. Statewide coordination framework connecting higher education, industry, and government to strengthen Maryland's AI workforce readiness, led by Bowie State University."
+      - bullet: "**Beyond Static AI: Dynamic Knowledge-Guided World Models for Trustworthy Decision Intelligence in Contested Operations** — Department of Defense, Army Research Office, Solicitation W911NF-26-S-0085. $1,999,294 (pending). 2027–2031."
+      - bullet: "**AIRISE: Advancing Institutional Research, Innovation, Scholarship, and Excellence** — Department of Energy. $6,500,000 (pending). 2026–2030. Expands STEM doctoral education (including a new Bioinformatics PhD), faculty research capacity, and research infrastructure."

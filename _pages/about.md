@@ -27,6 +27,6 @@ latest_posts:
 
 I am an Assistant Professor of Computer Science at [Bowie State University](https://bowiestate.edu/directories/faculty-and-staff-directory/msarker.php). I love to invent new things (research), share knowledge (teaching), and build things (software engineering).
 
-My research spans the broad field of Artificial Intelligence, with a focus on Explainable Artificial Intelligence (XAI), Neuro-Symbolic AI, Deep Learning, Knowledge Graphs, the Semantic Web, and Cybersecurity. Before joining Bowie State, I was an Assistant Professor at the University of Hartford, a Postdoctoral Fellow and PhD student at Kansas State University, and a Visiting Faculty member with the U.S. Department of Energy at Oak Ridge National Laboratory.
+My research spans the broad field of Artificial Intelligence, with a focus on Explainable Artificial Intelligence (XAI), Neuro-Symbolic AI, Deep Learning, Knowledge Graphs, the Semantic Web, and Cybersecurity. My work has been cited over 3,200 times (see [Google Scholar](https://scholar.google.com/citations?user=dnySX2QAAAAJ)). Before joining Bowie State, I was an Assistant Professor at the University of Hartford, a Postdoctoral Fellow and PhD student at Kansas State University, and a Visiting Faculty member with the U.S. Department of Energy at Oak Ridge National Laboratory.
 
 See my [publications](/publications/), [projects](/projects/), [teaching](/teaching/), and [CV](/cv/) for more, or reach out by email — I'm happy to hear from prospective students and collaborators.
