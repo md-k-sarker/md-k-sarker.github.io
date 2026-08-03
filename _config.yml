@@ -15,7 +15,7 @@ footer_text: >
   © <script>document.write(new Date().getFullYear())</script> Md Kamruzzaman Sarker.
 keywords: Md Kamruzzaman Sarker, explainable AI, XAI, neuro-symbolic AI, deep learning, knowledge graphs, semantic web, Bowie State University, computer science professor
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🧠 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: favicon.png # image in /assets/img/ used as the favicon (and apple-touch-icon)
 
 url: https://md-k-sarker.github.io # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/. Leave blank for root
