@@ -167,4 +167,8 @@ cv:
       - bullet: "**Program committees / NSF Panel Reviewer**, 2020–2025. NSF panel reviewer (2022–2025); program committee for ICLP 2023, IEEE SSCI 2022, SemREC 2022, KGSWC 2021–2022, IJCLR 2021–2022, ISWC 2021, CSSA @ ECML/PKDD 2021 and CIKM 2020, PRAXIS @ ISWC 2020."
       - bullet: "**Reviewer**, 2017–2024. AAAI (2022–2024), IJCAI, Semantic Web Journal (2019, 2023–2024), MDPI Applied Math (2022–2024), ISWC (2017, 2020), KGSWC 2019, ICCA 2020, SemDeep-6 @ IJCAI-PRICAI 2020, Semantic Explainability Workshop @ IEEE ICSC."
       - bullet: "**Open-source research software**, 2016–present. ECII: knowledge-graph-based data analysis software, pivotal to $1M in DARPA/AFRL funding ([github](https://github.com/md-k-sarker/ecii)). OWLAx: visual ontology development tool ([github](https://github.com/md-k-sarker/owlax)). ROWLTab: SWRL rule-to-OWL-axiom converter ([github](https://github.com/md-k-sarker/ROWL))."
-      - bullet: "**Tutorials, Organizer/Presenter**, 2018–2019. \"On Explainable AI: From Theory to Motivation, Applications and Limitation\" at AAAI 2019; \"On the Role of Data Semantics for Explainable AI\" at US2TS 2019; presenter, \"Methods and Tools for Modular Ontology Modeling\" at ISWC 2018."
+
+    Talks:
+      - bullet: "**On Explainable AI: From Theory to Motivation, Applications and Limitation** — Tutorial (Organizer/Presenter), 33rd AAAI Conference on Artificial Intelligence (AAAI 2019), Hawaii, USA."
+      - bullet: "**On the Role of Data Semantics for Explainable AI** — Tutorial (Organizer/Presenter), 2nd U.S. Semantic Technologies Symposium (US2TS 2019), North Carolina, USA."
+      - bullet: "**Methods and Tools for Modular Ontology Modeling** — Tutorial (Presenter), 17th International Semantic Web Conference (ISWC 2018), Monterey, CA, USA."

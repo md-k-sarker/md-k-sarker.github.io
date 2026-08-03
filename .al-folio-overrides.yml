@@ -10,8 +10,8 @@ overrides:
     acknowledged_at: '2026-08-02'
   _layouts/about.liquid:
     owner: al_folio_core
-    gem_version: 1.0.12
+    gem_version: 1.0.15
     upstream_path: _layouts/about.liquid
     upstream_sha256: 2c28eb83b71fe65f252202c11f0b4a19a9b6f1faccdc870b4f91c4ea51d0c6f1
-    local_sha256: 0f2a982345542623a821563b105a2b2d1a38953c67b3f64de1abb44e41435b6e
-    acknowledged_at: '2026-08-02'
+    local_sha256: a5fc2f853e227fd6d553155ed43633c025a32c2ca87078994c0bf63d03354105
+    acknowledged_at: '2026-08-03'
